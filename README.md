@@ -80,3 +80,24 @@ Here are some ideas to get you started:
 - PyTorch
 - Pandas
 - Scikit-learn
+
+## 🔬 Featured Research
+
+### Intelligence Cross-Architecture for IoT Malware Detection: A Multilayer Static-Dynamic Fusion Framework
+
+**Research Focus:**
+- Cross-Architecture IoT Malware Detection
+- Static and Dynamic Analysis
+- Multimodal Data Fusion
+- Reliability-Aware Cross-Architecture Learning (RA-CAM)
+
+**Target Architectures:**
+- ARM
+- MIPS
+- MIPSEL
+- x86
+
+**Research Dataset:**
+CIC-YNU-IoTMal 2026
+
+---
