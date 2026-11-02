@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071B36"/><stop offset="1" stop-color="#0B3158"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#123B63"/><stop offset="1" stop-color="#0D2C50"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#35B8FF"/><stop offset="1" stop-color="#83E0FF"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="650" rx="28" fill="url(#bg)"/>
+  <circle cx="1050" cy="70" r="190" fill="#0D5A91" opacity=".12"/>
+  <circle cx="90" cy="600" r="220" fill="#168BD0" opacity=".10"/>
+  <path d="M0 170 H1200" stroke="#238BD0" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M80 145 H1120" stroke="url(#accent)" stroke-width="4" filter="url(#glow)"/>
+  <text x="600" y="75" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">ALI AL RAWI</text>
+  <text x="600" y="119" fill="#55C8FF" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle" letter-spacing="2">AI  •  MACHINE LEARNING  •  CYBERSECURITY</text>
+  <text x="600" y="205" fill="#D6E9FF" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">Computer Science Researcher</text>
+  <text x="600" y="241" fill="#9FCDF2" font-family="Arial, sans-serif" font-size="19" text-anchor="middle">M.Sc. Student  |  IoT Malware Detection</text>
+  <g transform="translate(70 295)">
+    <rect width="510" height="125" rx="18" fill="url(#panel)" stroke="#2A8CCB" stroke-width="2"/>
+    <circle cx="58" cy="62" r="29" fill="#0A2848" stroke="#55C8FF" stroke-width="2"/>
+    <text x="58" y="71" fill="#80D8FF" font-family="Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">AI</text>
+    <text x="108" y="56" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">AI &amp; Machine Learning</text>
+    <text x="108" y="88" fill="#B8DFFF" font-family="Arial, sans-serif" font-size="18">Research interests and intelligent systems</text>
+  </g>
+  <g transform="translate(620 295)">
+    <rect width="510" height="125" rx="18" fill="url(#panel)" stroke="#2A8CCB" stroke-width="2"/>
+    <circle cx="58" cy="62" r="29" fill="#0A2848" stroke="#55C8FF" stroke-width="2"/>
+    <path d="M58 39 L78 47 V62 C78 77 68 87 58 92 C48 87 38 77 38 62 V47 Z" fill="none" stroke="#80D8FF" stroke-width="3"/>
+    <text x="108" y="56" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Cybersecurity</text>
+    <text x="108" y="88" fill="#B8DFFF" font-family="Arial, sans-serif" font-size="18">IoT security and malware detection</text>
+  </g>
+  <g transform="translate(70 450)">
+    <rect width="1060" height="135" rx="18" fill="#0D2C50" stroke="#35B8FF" stroke-width="2"/>
+    <text x="45" y="52" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="30" font-weight="700">Research Profiles</text>
+    <path d="M45 72 H1015" stroke="#238BD0" stroke-width="2"/>
+    <text x="45" y="111" fill="#80D8FF" font-family="Arial, sans-serif" font-size="22">Google Scholar</text>
+    <text x="255" y="111" fill="#B8DFFF" font-family="Arial, sans-serif" font-size="20">•</text>
+    <text x="285" y="111" fill="#80D8FF" font-family="Arial, sans-serif" font-size="22">GitHub Projects</text>
+    <text x="1015" y="111" fill="#B8DFFF" font-family="Arial, sans-serif" font-size="17" text-anchor="end">Continuously learning, building, and contributing.</text>
+  </g>
+  <text x="600" y="625" fill="#6FBFEA" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" letter-spacing="1">COMPUTER SCIENCE  •  ARTIFICIAL INTELLIGENCE  •  INFORMATION SECURITY</text>
+</svg>
