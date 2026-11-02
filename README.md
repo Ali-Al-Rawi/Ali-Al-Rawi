@@ -139,3 +139,20 @@ CIC-YNU-IoTMal 2026
 ## 🎓 Research Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=HTl69wcAAAAJ&hl=en)
+
+
+---
+
+## 🔬 Research Projects
+
+### Intelligence Cross-Architecture for IoT Malware Detection
+**A Multilayer Static-Dynamic Fusion Framework**
+
+- **Type:** Master's Research Project
+- **Status:** In Progress
+- **Focus:** Cross-Architecture IoT Malware Detection
+- **Architectures:** ARM, MIPS, MIPSEL, x86
+- **Approach:** Static-Dynamic Feature Fusion
+- **Research Areas:** Artificial Intelligence, Machine Learning, Cybersecurity
+
+Currently focused on research, dataset analysis, methodology development, and model implementation.
