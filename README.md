@@ -1,6 +1,16 @@
+## 📊 GitHub Statistics
+
+My GitHub profile showcases my learning journey, research interests, and software development projects.
+
+- Repository: Ali-Al-Rawi
+- Focus: Computer Science and Artificial Intelligence
+- Research: IoT Malware Detection
+
 <p align="center">
-  <img src="./ali_al_rawi_github_banner%20%281%29.png" width="100%" alt="Ali Al Rawi - Computer Science and Technology">
+  <i>Continuously learning, building, and contributing.</i>
 </p>
+
+---
 
 <h1 align="center">Hi, I'm Ali Al Rawi 👋</h1>
 
@@ -99,5 +109,17 @@ Here are some ideas to get you started:
 
 **Research Dataset:**
 CIC-YNU-IoTMal 2026
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Al-Rawi&show_icons=true&theme=tokyonight" alt="GitHub Statistics">
+</p>
+
+<p align="center">
+  <i>Continuously learning, building, and contributing.</i>
+</p>
 
 ---
