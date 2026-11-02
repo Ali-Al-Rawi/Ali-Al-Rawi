@@ -123,3 +123,6 @@ CIC-YNU-IoTMal 2026
 </p>
 
 ---
+## 🎓 Research Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=HTl69wcAAAAJ&hl=en)
