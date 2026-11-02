@@ -54,3 +54,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+
+
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- CNN, RNN, LSTM
+
+### Cybersecurity
+- Network Security
+- Malware Analysis
+- IoT Security
+- Cross-Architecture Malware Detection
+
+### Tools & Technologies
+- Git & GitHub
+- Visual Studio Code
+- Anaconda
+- PyTorch
+- Pandas
+- Scikit-learn
