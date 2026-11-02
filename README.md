@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="ali_al_rawi_github_banner%20(1).png" width="100%" />
+
+<h1>Ali Al Rawi</h1>
+
+<h3>AI | Machine Learning | Cybersecurity</h3>
+
+<p>Computer Science Researcher | IoT Malware Detection</p>
+
+</div>
+
+---
 ## 📊 GitHub Statistics
 
 My GitHub profile showcases my learning journey, research interests, and software development projects.
